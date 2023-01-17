@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.handonthomazucondo.app-merged_res-30:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.handonthomazucondo.app-main-32:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.handonthomazucondo.app-merged_res-30:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.handonthomazucondo.app-main-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.handonthomazucondo.app-merged_res-30:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.handonthomazucondo.app-main-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.handonthomazucondo.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.handonthomazucondo.app-main-32:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.handonthomazucondo.app-merged_res-30:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.handonthomazucondo.app-main-32:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/thomazbittencourt/.gradle/daemon/7.5.1/com.handonthomazucondo.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.handonthomazucondo.app-merged_res-30:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.handonthomazucondo.app-main-32:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]
